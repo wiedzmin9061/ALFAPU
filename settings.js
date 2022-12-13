@@ -3,8 +3,8 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© PBA MODS BoT.In THAKKUDU 3.7 MD
-//Thank you to God , DGXEON , ALIEN ALFA
+//© TEAM ALFA
+//Thank you to God , HIMADRI  , RITHIKA , DEV , DIVYA , ABHIJITH
 //═►══════════════════════════►//
 // NB:
 
@@ -44,23 +44,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['919037042728'] //ur owner number
-global.ownername = "ᴘʙᴀ ᴍᴏᴅꜱ ᴍʀ_ᴢ 😎" //ur owner name
-global.ytname = "YT: PBA MODS Yt" //ur yt chanel name
+global.vcardowner = ['919747955374'] //ur owner number
+global.ownername = "PU BOT 😎" //ur owner name
+global.ytname = "YT: POORNIMA UNIVERSITY" //ur yt chanel name
 global.socialm = "GitHub: I4MBetAZ" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "India, RAJASTHAN, JAIPUR" //ur location
 
 //bot bomdy 
-global.owner = ['919037042728']
-global.ownertag = '919037042728' //ur tag number
-global.botname = 'ᴛʜᴀᴋᴋᴜᴅᴜ ᴍᴏʟ ᴍᴅ ᴠ3' //ur bot name
-global.linkz = "https://www.youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ/videos" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ/videos" //ur website to be displayed
+global.owner = ['919747955374']
+global.ownertag = '919747955374' //ur tag number
+global.botname = 'ALFA ' //ur bot name
+global.linkz = "https://youtube.com/@PoornimaUniversityTV" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/@PoornimaUniversityTV" //ur website to be displayed
 global.botscript = 'https://github.com/I4MBetAZ' //script link
 global.reactmoji = "😁" //ur menu react emoji
 global.themeemoji = "😝" //ur theme emoji
-global.packname = "ᴛʜᴀᴋᴋᴜᴅᴜ ᴍᴏʟ ᴍᴅ ᴠ3\n\n\n\n\n\n\n\n\n\n\nᴘʙᴀ ᴍᴏᴅꜱ ᴍʀ_ᴢ " //ur sticker watermark packname
-global.author = "ᴘʙᴀ ᴍᴏᴅꜱ ᴍʀ_ᴢ😎" //ur sticker watermark author
+global.packname = "ALFA\n\n\n\n\n\n\n\n\n\n\nteamAlfa " //ur sticker watermark packname
+global.author = "TEAM ALFA" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -69,7 +69,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['919037042728'] //ur premium numbers
+global.premium = ['919747955374'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
